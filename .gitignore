@@ -1,0 +1,20 @@
+# Dossiers d'environnement virtuel
+venv/
+__pycache__/
+
+# Fichiers de configuration IDE
+.vscode/
+.idea/
+
+# Ignorer le jeu de données volumineux
+Crime_Data_from_2020_to_Present_20250424.csv
+
+# Ignorer les sauvegardes automatiques de Jupyter
+.ipynb_checkpoints/
+
+# Ignorer le lien vers la plateforme open-data de LA
+Crime_Data_2020_2024
+
+# Ignorer les carte interactives HTML, trop volumineux
+carte_crimes_LA_clusters.html
+carte_crimes_LA_coloree.html
