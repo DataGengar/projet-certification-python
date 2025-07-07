@@ -13,7 +13,7 @@ Crime_Data_from_2020_to_Present_20250424.csv
 .ipynb_checkpoints/
 
 # Ignorer le lien vers la plateforme open-data de LA
-Crime_Data_2020_2024
+Crime_Data_2020_2024.url
 
 # Ignorer les carte interactives HTML, trop volumineux
 carte_crimes_LA_clusters.html
