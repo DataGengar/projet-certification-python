@@ -10,6 +10,14 @@ Le jeu de données utilisé dans ce projet provient du portail open data officie
 * **Lien direct vers les données :** [Los Angeles Open Data - Crime Data](https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8)
 * **Date d'accès :** Les données ont été téléchargées en avril 2025.
 
+## Visualisation du Notebook
+
+Certains graphiques interactifs de ce projet pourraient ne pas s'afficher correctement sur GitHub.
+
+Pour une visualisation optimale et interactive, veuillez consulter le notebook via nbviewer :
+
+**[➡️ Voir le notebook sur nbviewer](https://nbviewer.org/github/DataGengar/projet-certification-python/blob/main/LA_crime_data_analysis.ipynb)**
+
 ## Installation
 
 1.  Clonez le dépôt :
